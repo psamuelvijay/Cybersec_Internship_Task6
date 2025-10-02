@@ -1,4 +1,5 @@
 README: Password Strength Evaluation Summary
+
 This project evaluates password strength using a popular online tool, highlighting what makes a password strong or weak.
 
 Key Learnings:
